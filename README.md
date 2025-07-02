@@ -1,12 +1,79 @@
 <h1 align="center">Hi 👋, I'm Shivansh Kumar</h1>
-- 🌱 I’m currently learning **Spring Boot, Jenkins, Kubernetes**
+<p align="center">🚀 Cloud & DevOps Enthusiast | 🛠️ CI/CD Architect | ☁️ Cloud Engineer in the Making</p>
 
-- 📫 How to reach me **shivnshshrma@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+🎯 I’m passionate about building robust, scalable systems with cloud-native technologies and automating the DevOps lifecycle.
+
+- 🌱 Currently diving deeper into **Spring Boot**, **Jenkins**, and **Kubernetes**
+- 🧠 Exploring **Reinforcement Learning for Cloud Resource Optimization**
+- 📫 Reach me at **shivnshshrma@gmail.com**
+- 📍 Based in **Kishanganj, Bihar, India**
+
+---
+
+## 🔗 Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/shivanshkumr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanshkumr" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shivanshshrma" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanshshrma" height="30" width="40" />
+  </a>
+  <a href="https://github.com/shivnshshrma" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="shivnshshrma" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+
+- **Cloud Platforms:**  
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30"/> AWS &nbsp; <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> GCP &nbsp; <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="30"/> Azure  
+
+- **DevOps & CI/CD:**  
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30"/> Jenkins &nbsp; <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30"/> GitHub Actions &nbsp; <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="30"/> TravisCI  
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="30"/> SonarQube &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30"/> Docker &nbsp; <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30"/> Kubernetes  
+
+- **Languages & Tools:**  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> C++ &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> Java &nbsp; <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30"/> Bash  
+
+- **Monitoring & Infrastructure:**  
+  Prometheus, Grafana, Terraform, AWS CloudFormation  
+
+---
+
+## 📌 Featured Projects
+
+### 🔧 AI-Driven Adaptive Cloud Resource Manager  
+*Jan 2025 – Apr 2025*  
+**Stack:** AWS, Python, RL, Prometheus, Locust, PostgreSQL, Kubernetes, Flask  
+- Developed an RL-based agent for dynamic cloud resource scaling – reduced cost by 18%, maintained API response time <500ms.
+- Trained models with real-time metrics and used Kubernetes HPA for zero-downtime scaling.
+- CI/CD powered by GitHub Actions for retraining & infra automation.
+
+### ⚙️ Automated CI/CD Pipeline with Jenkins  
+*Feb 2024 – Apr 2024*  
+**Stack:** Jenkins, AWS, Docker, SonarQube, GitHub, Bash  
+- Created a fully automated pipeline that cut deployment times by 30%.
+- Integrated static code analysis with SonarQube.
+- Used Docker for app portability and AWS EC2 for resilient deployments.
+
+---
+
+## 📜 Publications & Certifications
+
+- 📝 **IEEE Conference Paper:**  
+  *Cloud-Native Continuous Integration/Deployment Pipeline*  
+  [DOI: 10.1109/ICACCTech65084.2024.00054](https://doi.org/10.1109/ICACCTech65084.2024.00054)
+
+- 🎓 **Certifications:**  
+  - Google Associate Cloud Engineer (2023)  
+  - IBM Introduction to Cloud Computing  
+  - UC San Diego Data Structures & Algorithms  
+  - Mastercard Cybersecurity Simulation (2024)
+
+---
+
+🧠 *"I thrive at the intersection of code, cloud, and curiosity."*  
+Feel free to reach out if you'd like to collaborate or talk DevOps!
+
