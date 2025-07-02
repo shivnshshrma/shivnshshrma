@@ -6,7 +6,7 @@
 🎯 I’m passionate about building robust, scalable systems with cloud-native technologies and automating the DevOps lifecycle.
 
 - 🌱 Currently diving deeper into **Spring Boot**, **Jenkins**, and **Kubernetes**
-- 🧠 Exploring **Reinforcement Learning for Cloud Resource Optimization**
+- 🧠 Exploring **AI Agents with Cloud/DevOps**
 - 📫 Reach me at **shivnshshrma@gmail.com**
 - 📍 Based in **Kishanganj, Bihar, India**
 
